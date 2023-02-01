@@ -1,2 +1,6 @@
 # Test build settings
 remote_theme: pages-themes/leap-day@v0.2.0
+
+# Test configuration variables
+title: One Leap
+description: This is not a drill.
