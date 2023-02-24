@@ -35,5 +35,3 @@ If everything works just fine, my site powered by Hugo should be ready by now!
 ## Step Forward
 
 Learn more about Hugo, and practice, practice, practice more.
-
-![LOL!](../../resources/images/my-first-post/1.png)

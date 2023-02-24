@@ -1,4 +1,4 @@
-baseURL = "https://felixnoo.github.io"
+baseURL = "https://felixnoo.github.io/"
 languageCode = "en-us"
 title = "Sliced Loaf"
 theme = 'ananke'
