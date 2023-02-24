@@ -11,7 +11,7 @@ As the very first post on this website, I think it should help me set out on the
 
 The very first thing is to make sure I can always remember how I set up the website from scratch...
 
-## Website Set Up
+## Set Website Up
 
 ### Simple!
 
@@ -36,4 +36,4 @@ If everything works just fine, my site powered by Hugo should be ready by now!
 
 Learn more about Hugo, and practice, practice, practice more.
 
-![LOL!](../../resources/images/posts/my-first-post/1.png)
+![LOL!](../../static/images/posts/my-first-post/1.png)
