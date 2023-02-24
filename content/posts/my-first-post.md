@@ -36,4 +36,4 @@ If everything works just fine, my site powered by Hugo should be ready by now!
 
 Learn more about Hugo, and practice, practice, practice more.
 
-![LOL!](../../static/images/posts/my-first-post/1.png)
+![LOL!](../../resources/images/my-first-post/1.png)
