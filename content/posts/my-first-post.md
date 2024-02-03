@@ -7,7 +7,7 @@ keywords: testing
 
 ## Overview
 
-As the very first post on this website, I think it should help me set out on the journey to practice my writing skills.
+As the very first post on this website, I think it should help me set out on my adventure.
 
 The very first thing is to make sure I can always remember how I set up the website from scratch...
 
@@ -20,7 +20,7 @@ Make sure to:
 1. have a GitHub account
 2. [learn to create a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-Now, the website should be ready! To push the simple method forward a little bit, I'm thinking about using [Hugo](https://gohugo.io/).
+Now, the website should be ready! To push me forward a little bit, I'm thinking about using [Hugo](https://gohugo.io/).
 
 ### Hugo My Site
 
@@ -28,7 +28,7 @@ To Hugo my site, I need to follow the document of [Host on GitHub](https://gohug
 
 [This repository](https://github.com/peaceiris/actions-gh-pages) may come in handy when configuring the site...
 
-If the GitHub Action fails, try to check the error message, and it may be caused by insufficient permission that can be changed in **Settings** > **Actions** > **General** > **Workflow permissions**.
+If the GitHub Action fails, try to check the error message, and it may be caused by insufficient permission. I can make necessary changes in **Settings** > **Actions** > **General** > **Workflow permissions**.
 
 If everything works just fine, my site powered by Hugo should be ready by now!
 
